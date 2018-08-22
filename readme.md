@@ -8,5 +8,6 @@
 4. boolean
 5. number
 6. symbol(ES6)
+
 一种引用类型
 1. Object
